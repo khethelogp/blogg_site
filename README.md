@@ -2,7 +2,7 @@
 A simple blog website
 
 ### developed using HTML, CSS and JavaScript
-[preview](https://khethelogp.github.io/blogg_site/)
+[Demo :eyes:](https://khethelogp.github.io/blogg_site/)
 ---
 ![](https://i.ibb.co/VjDrZJk/blogg.png)
 
